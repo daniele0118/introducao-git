@@ -1,0 +1,11 @@
+Git init -> criar o repositório local
+
+git remote add origin URL_DO_REPOSITORIO
+
+git add . 
+
+git commit -m "Sua mensagem de commit"
+
+git push -u origin main
+
+git checkout -b nome_da_branch
